@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<html>
+<head>
+
+    <title>Title</title>
+</head>
+<body>
+<h1>Uploading file</h1>
+<form method="POST" action="upload-file" enctype="multipart/form-data">
+    !!!Внимание, формат записи должен удволетворять следующему шаблону:<br />
+    firstName:FirstName; middleName:MiddleName; lastName:LastName; age:Age; salary:Salary; job:Job; email:Email<br />
+    Сами записи о пользователе должны разделяться Enter'ом<br />
+    Некоректные строчки файла добавлены не будут!!!<br /><br />
+    File to upload: <input type="file" name="file"><br />
+    <input type="submit" value="Upload">
+    Press here to upload the file!
+</form>
+</body>
+</html>

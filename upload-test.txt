@@ -1,0 +1,9 @@
+folrkegp[]oregker[]pogker
+firstName:Vadim; middleName:As; lastName:Zelenevskii; age:0; salary:0.0; job:; email:vadim.zel11@gmail.com
+gbrmntym wereregre
+firstName:Vwedadim; middleName:Afws; lastName:Zelenevskii; age:110; salary:230.0; job:wefwe; email:vadim.zel11@gmail.com
+firstName:Vadim; middleName:Afs; lastName:Zelenfeevskii; age:230; salary:3240.0; job:fwef; email:vadim.zel11@gmail.com
+firstName:Vaewdim; middleName:As; lastName:Zelenevskii; age:230; salary:2340.0; job:cacw; email:vadim.zel11@gmail.com
+firstName:Vawdim; middleName:As; lastName:Zelenevskii; age:230; salary:320.0; job:; email:vadim.zel11@gmail.com
+
+
